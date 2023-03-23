@@ -1,0 +1,90 @@
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.exe
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.pdb
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CopyComplete
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.exe
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.pdb
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\pelaajanalus.xnb
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vaavi.xnb
+C:\Users\OMISTAJA\source\repos\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vihualus.xnb
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\pelaajanalus.xnb
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vaavi.xnb
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vihualus.xnb
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.exe
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.pdb
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.dll
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.xml
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csprojAssemblyReference.cache
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CoreCompileInputs.cache
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CopyComplete
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.exe
+C:\kurssit\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.pdb
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\pelaajanalus.xnb
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vaavi.xnb
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Content\vihualus.xnb
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.exe
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Save the Astrobabies.pdb
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\Jypeli.Physics2d.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csprojAssemblyReference.cache
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CoreCompileInputs.cache
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.csproj.CopyComplete
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.exe
+C:\Kurssit\k2019\ohj1\harkkatyö\keranhos\ht\Save the Astrobabies\Save the Astrobabies\obj\x86\Debug\Save the Astrobabies.pdb
